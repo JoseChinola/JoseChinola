@@ -35,8 +35,8 @@ Estoy aprendiendo a usar **JavaScript**, **Node.js** para el backend, y **React*
 
 ## 🌟 Algunos de mis proyectos
 
-- **[Proyecto 1](https://github.com/JoseChinola/Responsive-School-)**: Descripción del proyecto 1.
-- **[Proyecto 2](https://github.com/JoseChinola/Calculadora_C-)**: Descripción del proyecto 2.
+- **[Responsive-School](https://github.com/JoseChinola/Responsive-School-)**: sistema de gestión universitario el cual esta basado en el esquema que tiene la plataforma de la o&m..
+- **[Calculadora C#](https://github.com/JoseChinola/Calculadora_C-)**: Mi primera calculadora creada en C#.
 
 ---
 
